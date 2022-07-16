@@ -29,3 +29,13 @@ body{
     height: 300px;
     border-radius: 10px;
 }
+
+.parteEscrita-total{
+    height: 250px;
+    width: 300px;
+}
+
+.parteEscrita-total h3{
+    margin-top: 18px;
+    color: white;
+}
