@@ -1,0 +1,24 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    position: absolute;
+    display: flex;
+    background-color: rgb(13, 26, 45);
+    align-items: center;
+}
+
+.Card {
+    position: relative;
+    background-color: azure;
+    width: 370px;
+    height: 600px;
+    display: flex;
+    margin-top: 50%;
+    margin-left: 210%;
+    border-radius: 15px;
+    background-color: rgb(21, 39, 63);
+
+}
