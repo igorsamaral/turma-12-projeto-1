@@ -19,6 +19,9 @@ body{
     height: 550px;
     width: 300px;
     background: hsl(216, 50%, 16%);
+    padding: 25px 25px 10px 25px;
+    border-radius: 15px;
+    box-shadow: 1px 30px 60px hsl(216, 53%, 7%);
 }
 
 .div-imagem{
