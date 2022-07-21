@@ -42,6 +42,7 @@ body{
     margin-top: 18px;
     color: white;
     font-weight: 600;
+    font-size: 22px;
 }
 
 .paragrafo-principal{
@@ -81,4 +82,31 @@ body{
     border: solid  hsl(215, 32%, 27%);
     border-width: 0.1px;
     width: 300px;
+}
+
+footer p {
+    display: flex;
+}
+
+footer p img{
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+footer p span{
+    margin-top: 26px;
+    margin-left: 15px;
+    color: hsl(215, 51%, 70%);
+    font-size: 16px;
+    font-weight: 300;
+}
+
+footer p a{
+    margin-top: 26px;
+    margin-left: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
 }
