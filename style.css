@@ -41,6 +41,7 @@ body{
 .parteEscrita-total h3{
     margin-top: 18px;
     color: white;
+    font-weight: 600;
 }
 
 .paragrafo-principal{
@@ -73,4 +74,11 @@ body{
 .div-eth-clock p{
     display: flex;
     align-items: center;
+}
+
+.linha{
+    margin-top: 25px;
+    border: solid  hsl(215, 32%, 27%);
+    border-width: 0.1px;
+    width: 300px;
 }
