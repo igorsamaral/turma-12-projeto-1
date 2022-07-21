@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Outfit', sans-serif;
 }
 
 body{
@@ -38,4 +41,11 @@ body{
 .parteEscrita-total h3{
     margin-top: 18px;
     color: white;
+}
+
+.paragrafo-principal{
+    margin-top: 15px;
+    font-size: 18px;
+    color: hsl(215, 32%, 27%);
+    font-weight: 400;
 }
