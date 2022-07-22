@@ -139,3 +139,13 @@ footer p a{
     background:  hsla(178, 100%, 50%, 0.459);
     border-radius: 10px;
 }
+
+.parteEscrita-total h3:hover{
+    color:  hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+footer p a:hover{
+    color:  hsl(178, 100%, 50%);
+    cursor: pointer;
+}
