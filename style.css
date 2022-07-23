@@ -57,3 +57,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.fw-regular {
+    font-weight: 600;
+}
+
+.text-white {
+    color: white;
+}
