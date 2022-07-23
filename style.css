@@ -87,9 +87,9 @@ body{
 
 .linha{
     margin-top: 25px;
-    border: solid  hsl(215, 32%, 27%);
-    border-width: 0.1px;
+    height: 1px;
     width: 300px;
+    background-color: hsl(215, 32%, 27%);
 }
 
 footer p {
