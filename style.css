@@ -88,6 +88,14 @@ body {
     align-items: center;
 }
 
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
 .profile {
     margin-right: 15px;
 }
@@ -100,4 +108,8 @@ body {
 
 .my-small {
     margin: 20px 0;
+}
+
+.me-small {
+    margin-right: 5px;
 }
