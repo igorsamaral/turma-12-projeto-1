@@ -73,3 +73,9 @@ body {
 .text-info {
     color: hsl(178, 100%, 50%)
 }
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: hsl(215, 32%, 27%);
+}
