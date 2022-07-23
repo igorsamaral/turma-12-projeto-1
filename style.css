@@ -113,3 +113,12 @@ body {
 .me-small {
     margin-right: 5px;
 }
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: hsl(178, 100%, 50%);
+}
