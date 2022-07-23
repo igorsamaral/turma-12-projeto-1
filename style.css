@@ -57,6 +57,11 @@ body {
     justify-content: center;
 }
 
+.fw-small {
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
 .fw-regular {
     font-weight: 600;
 }
