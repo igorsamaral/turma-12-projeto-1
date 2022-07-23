@@ -65,3 +65,11 @@ body {
 .text-white {
     color: white;
 }
+
+.text-secondary {
+    color: hsl(215, 51%, 70%)
+}
+
+.text-info {
+    color: hsl(178, 100%, 50%)
+}
