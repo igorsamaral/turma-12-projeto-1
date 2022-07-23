@@ -46,8 +46,11 @@ body {
     height: 100%;
     border-radius: 8px;
     background-color: hsla(178, 100%, 50%, 0.55);
+    cursor: pointer;
 }
 
 .card-header:hover .overlay {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
