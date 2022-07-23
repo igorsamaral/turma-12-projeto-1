@@ -62,6 +62,10 @@ body {
     font-weight: 600;
 }
 
+.fs-medium {
+    font-size: 18px;
+}
+
 .text-white {
     color: white;
 }
