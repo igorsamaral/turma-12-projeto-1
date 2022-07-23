@@ -97,3 +97,7 @@ body {
     border: 1px solid white;
     border-radius: 50%;
 }
+
+.my-small {
+    margin: 20px 0;
+}
